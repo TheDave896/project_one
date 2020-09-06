@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c8864c6-4a8e-4bed-861d-ccde2efe99e7" name="Default Changelist" comment="Súper canvi III" />
+    <list default="true" id="4c8864c6-4a8e-4bed-861d-ccde2efe99e7" name="Default Changelist" comment="Súper canvi IV" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599213777283</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Súper canvi IV">
+      <created>1599414279774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599414279774</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Súper canvi IV">
+      <created>1599414394248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599414394248</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,7 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Súper canvi II" />
     <MESSAGE value="Súper canvi III" />
-    <option name="LAST_COMMIT_MESSAGE" value="Súper canvi III" />
+    <MESSAGE value="Súper canvi IV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Súper canvi IV" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1599214123544">
